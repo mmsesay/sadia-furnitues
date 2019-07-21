@@ -126,7 +126,7 @@ html, body, .block {
 /*********************************************************************************/
 /* trend                                                                       */
 /*********************************************************************************/
-.trend_one {
+/* .trend_one {
   background: #333 url(../images/trend01.jpg) no-repeat center;
   background-position: center;
   background-size: cover;
@@ -159,7 +159,7 @@ html, body, .block {
 .trend_three:hover {
   background: rgba(255, 206, 114);
   transition: 1s ease-in;
-}
+} */
 
 /*********************************************************************************/
 /* trend                                                                       */
@@ -171,6 +171,10 @@ html, body, .block {
 /*********************************************************************************/
 /* footer                                                                       */
 /*********************************************************************************/
+
+.footer-nav{
+  margin-top: 10%;
+}
 
 .footer-nav ul{
   margin-left: 30% !important;

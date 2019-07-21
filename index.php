@@ -34,16 +34,16 @@
                 <div class="col s12 m7">
                     <div class="row white h-full">
                         <h4 class="px-32 pt-24 pb-5 text-gray-700 text-2xl font-semibold leading-normal uppercase bold">
-                            STONEYCRETE SPECIALIZES IN CUSTOM WOOD PRODUCTS, CABINETRY, 
+                            SADIA FURNITURES SPECIALIZES IN CUSTOM WOOD PRODUCTS, CABINETRY, 
                             KITCHENS, LANDSCAPE CONSTRUCTION AS WELL AS CUSTOMIZED INTERIOR AND EXTERIOR CONCRETE PRODUCTS.
                         </h4>
-                        <p class="px-32 pb-5 text-xl">Stoneycrete is a division of Signature Contracting that offers 
+                        <p class="px-32 pb-5 text-xl">Sadia Furnitures is a division of Signature Contracting that offers 
                             high quality concrete and woodworking for your entire home. 
                             We are pleased to be able to offer our customers customized 
                             interior and exterior concrete products as well as uniquely 
                             handcrafted wood products
                         </p>
-                        <a href="#" class="px-32 no-uderliner text-blue-500 cursor-pointer text-xl">Learn More</a>
+                        <a href="about.php" class="px-32 no-uderliner text-blue-500 cursor-pointer text-xl">Learn More</a>
                     </div>
                 </div>
                 <!-- right section -->
@@ -115,8 +115,11 @@
         </div>
     </div>
     <!-- end of third section -->
-</body>
 
+    
+</body>
+    <!-- requiring the footer-->
+    <?php require 'includes/templates/footer.php'; ?>
     <!-- requiring the jsscripts-->
     <?php require 'includes/templates/jsscripts.php'; ?>
 </html>

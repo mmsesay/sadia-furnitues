@@ -13,8 +13,8 @@
                         <i class="material-icons">menu</i>
                     </a>
                     <ul class="right hide-on-med-and-down">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
                         <li><a href="#">Services</a></li>
                         <li><a href="#">Show room</a></li>
                         <li><a href="#">Contact</a></li>
@@ -24,8 +24,8 @@
         </nav>
     </div> 
     <ul class="sidenav" id="mobile-view">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Show room</a></li>
         <li><a href="#">Contact</a></li>
