@@ -9,8 +9,8 @@
         $('.sidenav').sidenav({
             edge: 'right'
         });
-        $('.pushpin-demon-nav').pushpin();
-        $('.tooltipped').tooltip();
+        // $('.pushpin-demon-nav').pushpin();
+        // $('.tooltipped').tooltip();
         $('.parallax').parallax();
 
     });
